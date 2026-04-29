@@ -1,0 +1,17 @@
+[17:35:23 ERROR] [JPremium]: Could not download required dependencies! JPremium will not work!
+[17:35:23 ERROR]: java.lang.IllegalStateException: Could not download dependency from: https://repo.maven.apache.org/maven2/com/community/jpremium/library/com/sun/mail/com.community.jpremium.library.jakarta.mail/2.0.1/com.community.jpremium.library.jakarta.mail-2.0.1.jar
+[17:35:23 ERROR]:       at com.community.jpremium.common.runtime.RuntimeDependencyManager.downloadDependency(RuntimeDependencyManager.java:127)
+[17:35:23 ERROR]:       at com.community.jpremium.common.runtime.RuntimeDependencyManager.resolveDependencyJar(RuntimeDependencyManager.java:80)
+[17:35:23 ERROR]:       at com.community.jpremium.common.runtime.RuntimeDependencyManager.injectDependencies(RuntimeDependencyManager.java:48)
+[17:35:23 ERROR]:       at com.community.jpremium.bungee.JPremium.initializeRuntimeDependencies(JPremium.java:337)
+[17:35:23 ERROR]:       at com.community.jpremium.bungee.JPremium.onEnable(JPremium.java:205)
+[17:35:23 ERROR]:       at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:375)
+[17:35:23 ERROR]:       at net.md_5.bungee.BungeeCord.start(BungeeCord.java:339)
+[17:35:23 ERROR]:       at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:57)
+[17:35:23 ERROR]:       at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[17:35:23 ERROR]: Caused by: java.io.FileNotFoundException: https://repo.maven.apache.org/maven2/com/community/jpremium/library/com/sun/mail/com.community.jpremium.library.jakarta.mail/2.0.1/com.community.jpremium.library.jakarta.mail-2.0.1.jar
+[17:35:23 ERROR]:       at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2024)
+[17:35:23 ERROR]:       at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
+[17:35:23 ERROR]:       at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[17:35:23 ERROR]:       at com.community.jpremium.common.runtime.RuntimeDependencyManager.downloadDependency(RuntimeDependencyManager.java:109)
+[17:35:23 ERROR]:       ... 8 more

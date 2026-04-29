@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "bE1W3T6nwH08GjaJdgAm6"
+uri = "file://README.md"
+type = "text"
+title = "README.md — JPremium"

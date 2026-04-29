@@ -1,0 +1,7 @@
+name: JPremium
+version: ${project.version}
+main: com.community.jpremium.bungee.JPremium
+author: Jakubson
+description: A modern authentication plugin for Minecraft proxy servers.
+website: https://builtbybit.com/resources/jpremium.17227/
+softDepends: [BungeeGuard]
