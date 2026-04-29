@@ -1,9 +1,0 @@
-name: JPremium
-version: CLEARED-1.26.0
-main: com.community.jpremium.backend.Backend
-author: Jakubson
-api-version: 1.21
-description: A modern authentication plugin for Minecraft proxy servers.
-website: https://builtbybit.com/resources/jpremium.17227/
-softdepend: [BungeeGuard, ProtocolLib, PlaceholderAPI]
-folia-supported: true # It seems to work, but not fully tested
