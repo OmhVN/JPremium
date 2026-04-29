@@ -1,4 +1,4 @@
-### First installation
+### First installation BungeeCord or Velocity
 
 **Installation on a proxy server (BungeeCord or Velocity)**
 
