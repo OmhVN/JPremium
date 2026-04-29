@@ -14,7 +14,7 @@
 [![BungeeCord](https://img.shields.io/badge/BungeeCord-1.21-yellow?style=flat-square)](https://www.spigotmc.org/)
 [![Velocity](https://img.shields.io/badge/Velocity-3.3.0-blue?style=flat-square)](https://papermc.io/software/velocity)
 [![Paper](https://img.shields.io/badge/Paper-1.21.4-white?style=flat-square)](https://papermc.io/)
-[![HikariCP](https://img.shields.io/badge/HikariCP-6.3.0-lightgrey?style=flat-square)](https://github.com/brettwooldridge/HikariCP)
+[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/minemumivn-1276836061573546076)
 
 </div>
 
