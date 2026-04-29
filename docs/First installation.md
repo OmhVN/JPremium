@@ -1,4 +1,4 @@
-### First installation
+### First installation BungeeCord/Waterfall/Velocity
 
 **Installation on a proxy server (BungeeCord/Waterfall/Velocity)**
 
